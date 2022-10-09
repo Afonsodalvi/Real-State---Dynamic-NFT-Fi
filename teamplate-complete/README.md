@@ -1,6 +1,9 @@
 # <h1 align="center">Real State - Dynamic NFT-Fi</h1>
 
-**Já vi muitos projetos de tokenização imobiliária e uma das maiores discussões no tema envolve a regulação, sendo o ativo uma fração do imóvel, se será caracterizado como valor mobiliário ou não. Quis usar um pouco de criatividade e construí um projeto que ainda não vi no mercado, um protótipo de ideia que gostaria que analisassem e compartilhassem. 
+**
+Dynamic NFT with reward according to the valuation or devaluation of the property.
+
+Já vi muitos projetos de tokenização imobiliária e uma das maiores discussões no tema envolve a regulação, sendo o ativo uma fração do imóvel, se será caracterizado como valor mobiliário ou não. Quis usar um pouco de criatividade e construí um projeto que ainda não vi no mercado, um protótipo de ideia que gostaria que analisassem e compartilhassem. 
 
 O código tem muita coisa ainda que pode ser feita, até possibilidades de viabilidade jurídica é possível pensando na arquitetura dele. Se você é desenvolvedor, advogado ou empreendedor, fiquem à vontade para me chamar no direct para trocarmos ideia sobre o assunto. @afonsod.eth
 Então, vamos lá.
